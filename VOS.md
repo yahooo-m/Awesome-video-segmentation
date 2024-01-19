@@ -1,6 +1,4 @@
-# Awesome Video Object Segmentation
-
-![](https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?style=flat-square&colorB=abcdef)
+# Awesome Video Object Segmentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 :teddy_bear: We indicate different VOS types with colored squares:
 
