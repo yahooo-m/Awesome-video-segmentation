@@ -1,17 +1,7 @@
 # Awesome-Video-Instance-Segmentation[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A list of video instance segmentation papers, codes, and datasets.
 
-## LeadBoard
-
-| Method                | Backbone  | Youtube-VIS 2019 | | | | | Youtube-VIS 2021 | | | | | OVIS | | | | |
-| :--------------------- | :---------: | :----------------: |:---:|:---:|:---:| :----------------: |:---:|:---:|:---:| :----: |:---:|:---:|:---:|
-|                       |           | AP               | AP50 | AP75 | AR1 | AR10 | AP | AP50 | AP75 | AR1 | AR10 | AP | AP50 | AP75 | AR1 | AR10 |
-| Online                |           |                  |      |      |     |      |    |      |      |     |      |    |      |      |     |      |
-| MaskTrack R-CNN  | ResNet-50 | 30.3             | 51.1 | 32.6 | 31.0 | 35.5 | 28.6 | 48.9 | 29.6 | 26.5 | 33.8 | 10.8 | 25.3 | 8.5  | 7.9  | 14.9 |
-| SipMask          | ResNet-50 | 33.7             | 54.1 | 35.8 | 35.4 | 40.1 | 31.7 | 52.5 | 34.0 | 30.8 | 37.8 | 10.2 | 24.7 | 7.8  | 7.9  | 15.8 |
-| CrossVIS         | ResNet-50 | 36.3             | 56.8 | 38.9 | 35.6 | 40.7 | 34.2 | 54.4 | 37.9 | 30.4 | 38.2 | 14.9 | 32.7 | 12.1 | 10.3 | 19.8 |
-| VISOLO           | ResNet-50 | 38.6             | 56.3 | 43.7 | 35.7 | 42.5 | 36.9 | 54.7 | 40.2 | 30.6 | 40.9 | 15.3 | 31.0 | 13.8 | 11.1 | 21.7 |
-| ...              | ...       | ...              | ...  | ...  | ...  | ...  | ...  | ...  | ...  | ...  | ...  | ...  | ...  | ...  | ...  | ...  |
+## LeadBoard | Title |  Venue  | Supervision | PDF | CODE |
 
 
 ## 2023
