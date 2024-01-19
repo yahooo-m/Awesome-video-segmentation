@@ -4,17 +4,17 @@ A list of video instance segmentation papers, codes and datasets.
 ## 2023
 | Title |  Venue  | Supervision | PDF | CODE |
 | :-----|:-------:|:---:|:---:|:----:|
-| GenVIS: A generalized framework for video instance segmentation | CVPR 2023 | Video| [PDF](https://arxiv.org/abs/2211.08834) | [CODE](https://github.com/miranheo/GenVIS)|
+| GenVIS: A generalized framework for video instance segmentation | CVPR 2023 | 🔥Video| [PDF](https://arxiv.org/abs/2211.08834) | [CODE](https://github.com/miranheo/GenVIS)|
 | GRAtt-VIS: Gated residual attention for auto rectifying video instance segmentation | Arxiv | Video | [PDF](https://arxiv.org/abs/2305.17096) | [CODE](https://github.com/Tanveer81/GRAttVIS) |
 | RefineVIS: Refinevis: Video instance segmentation with temporal attention refinement | Arxiv | Video| [PDF](https://arxiv.org/abs/2306.04774) | CODE|
 | CTVIS: Consistent training for online video instance segmentation | ICCV 2023  | Video | [PDF](https://arxiv.org/abs/2307.12616) | [CODE](https://github.com/KainingYing/CTVIS)|
 | TCOVIS: Temporally consistent online video instance segmentation | ICCV 2023 | Video | [PDF](https://arxiv.org/abs/2309.11857) | [CODE](https://github.com/jun-long-li/TCOVIS/blob/main/README.md)|
 | DVIS: Decoupled video instance segmentation framework | ICCV 2023 | Video | [PDF](https://arxiv.org/abs/2306.03413) | [CODE](https://github.com/zhang-tao-whu/DVIS) |
 | NOVIS: A case for end-to-end near-online video instance segmentation | ICML 2023 | Video | [PDF](https://arxiv.org/pdf/2308.15266v2.pdf) | CODE |
-| DVIS++： Improved Decoupled Framework for Universal Video Segmentation | Arxiv | Unified & OV | [PDF](https://arxiv.org/pdf/2312.13305v1.pdf) | [CODE](https://github.com/zhang-tao-whu/DVIS_Plus) |
-| Tube-Link: A Flexible Cross Tube Framework for Universal Video Segmentation| ICCV 2023| Unified | [PDF](https://arxiv.org/pdf/2303.12782v3.pdf) | [CODE](https://github.com/lxtgh/tube-link) |
-| UNINEXT: Universal Instance Perception as Object Discovery and Retrieval | CVPR 2023 | Unified | [PDF](https://arxiv.org/pdf/2303.06674v2.pdf) | [CODE](https://github.com/MasterBin-IIAU/UNINEXT) |
-| GLEE: General Object Foundation Model for Images and Videos at Scale | Arxiv | Unified | [PDF](https://arxiv.org/pdf/2312.09158v1.pdf) | [CODE](https://github.com/FoundationVision/GLEE) |
+| DVIS++： Improved Decoupled Framework for Universal Video Segmentation | Arxiv | 🔥Unified & OV | [PDF](https://arxiv.org/pdf/2312.13305v1.pdf) | [CODE](https://github.com/zhang-tao-whu/DVIS_Plus) |
+| Tube-Link: A Flexible Cross Tube Framework for Universal Video Segmentation| ICCV 2023| 🔥Unified | [PDF](https://arxiv.org/pdf/2303.12782v3.pdf) | [CODE](https://github.com/lxtgh/tube-link) |
+| UNINEXT: Universal Instance Perception as Object Discovery and Retrieval | CVPR 2023 | 🔥Unified | [PDF](https://arxiv.org/pdf/2303.06674v2.pdf) | [CODE](https://github.com/MasterBin-IIAU/UNINEXT) |
+| GLEE: General Object Foundation Model for Images and Videos at Scale | Arxiv | 🔥Unified | [PDF](https://arxiv.org/pdf/2312.09158v1.pdf) | [CODE](https://github.com/FoundationVision/GLEE) |
 
 
 ## 2022
@@ -26,11 +26,11 @@ A list of video instance segmentation papers, codes and datasets.
 | Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer |  ECCV   | Video | [PDF](https://arxiv.org/abs/2203.13253) | [CODE](https://github.com/OmkarThawakar/MSSTS-VIS) |
 | InstanceFormer: An Online Video Instance Segmentation Framework |  arXiv  | Online | [PDF](https://arxiv.org/abs/2208.10547) | [CODE]() |
 | DeVIS: Making Deformable Transformers Work for Video Instance Segmentation |  arXiv  | Video | [PDF](https://arxiv.org/pdf/2207.11103v1.pdf) | [CODE](https://github.com/acaelles97/DeVIS) |
-| VITA: Video Instance Segmentation via Object Token Association | NeurIPS | Video | [PDF](https://arxiv.org/pdf/2206.04403v1.pdf) | [CODE](https://github.com/sukjunhwang/VITA) |
+| VITA: Video Instance Segmentation via Object Token Association | NeurIPS | 🔥Video | [PDF](https://arxiv.org/pdf/2206.04403v1.pdf) | [CODE](https://github.com/sukjunhwang/VITA) |
 | MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training | NeurIPS | Video | [PDF](http://arxiv.org/abs/2208.02245.pdf) | [CODE](https://github.com/NVlabs/MinVIS) |
 | Video Mask Transfiner for High-Quality Video Instance Segmentation |  ECCV   | Video | [PDF](https://arxiv.org/pdf/2207.14012.pdf) | [CODE](https://www.vis.xyz/pub/vmt) |
 | SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation |  ECCV   | Video | [PDF](https://arxiv.org/abs/2112.08275) | [CODE](https://github.com/wjf5203/SeqFormer) |
-| In Defense of Online Models for Video Instance Segmentation |  ECCV   | Video | [PDF](https://arxiv.org/pdf/2207.10661v1.pdf) | [CODE](https://github.com/wjf5203/VNext) |
+| In Defense of Online Models for Video Instance Segmentation |  ECCV   | 🔥Video | [PDF](https://arxiv.org/pdf/2207.10661v1.pdf) | [CODE](https://github.com/wjf5203/VNext) |
 | PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation |  ECCV   | Video | [PDF](https://arxiv.org/pdf/2112.02582.pdf) | [CODE](https://github.com/HarborYuan/PolyphonicFormer) |
 | Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation |  CVPR   |Video|[PDF](http://arxiv.org/abs/2204.04656)|[CODE](https://github.com/lxtGH/Video-K-Net)|
 | VISOLO: Grid-Based Space-Time Aggregation for Efficient Online Video Instance Segmentation |  CVPR   |Video|[PDF](https://arxiv.org/abs/2112.04177)|[CODE](https://github.com/SuHoHan95/VISOLO)|
