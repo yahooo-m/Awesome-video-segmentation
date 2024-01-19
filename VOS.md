@@ -2,8 +2,6 @@
 
 ![](https://img.shields.io/github/last-commit/gaomingqi/awesome-video-object-segmentation?style=flat-square&colorB=abcdef)
 
-Recent Advances in Video Object Segmentation (VOS). VOS works before 2022 can be found in our review paper:
-
 :teddy_bear: We indicate different VOS types with colored squares:
 
 :blue_square: `SVOS`: Semi-Supervised VOS (also termed as One-Shot VOS)
