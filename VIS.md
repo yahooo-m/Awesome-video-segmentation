@@ -1,8 +1,8 @@
 # Awesome-Video-Instance-Segmentation[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A list of video instance segmentation papers, codes and datasets.
-## LeadBoard
+A list of video instance segmentation papers, codes, and datasets.
 
-| Method                | Backbone  | Youtube-VIS 2019 | | | | | Youtube-VIS 2021 | | | | | OVIS | | | | |
+## LeadBoard
+## | Method                | Backbone  | Youtube-VIS 2019 | | | | | Youtube-VIS 2021 | | | | | OVIS | | | | |
 | :--------------------- | :---------: | :----------------: |:---:|:---:|:---:| :----------------: |:---:|:---:|:---:| :----: |:---:|:---:|:---:|
 |                       |           | AP               | AP50 | AP75 | AR1 | AR10 | AP | AP50 | AP75 | AR1 | AR10 | AP | AP50 | AP75 | AR1 | AR10 |
 | Online                |           |                  |      |      |     |      |    |      |      |     |      |    |      |      |     |      |
