@@ -4,4 +4,3 @@
 
 😺[VIS](https://github.com/yahooo-m/Awesome-video-segmentation/blob/main/VIS.md)
 
-
