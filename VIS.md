@@ -2,7 +2,8 @@
 A list of video instance segmentation papers, codes, and datasets.
 
 ## LeadBoard
-## | Method                | Backbone  | Youtube-VIS 2019 | | | | | Youtube-VIS 2021 | | | | | OVIS | | | | |
+
+| Method                | Backbone  | Youtube-VIS 2019 | | | | | Youtube-VIS 2021 | | | | | OVIS | | | | |
 | :--------------------- | :---------: | :----------------: |:---:|:---:|:---:| :----------------: |:---:|:---:|:---:| :----: |:---:|:---:|:---:|
 |                       |           | AP               | AP50 | AP75 | AR1 | AR10 | AP | AP50 | AP75 | AR1 | AR10 | AP | AP50 | AP75 | AR1 | AR10 |
 | Online                |           |                  |      |      |     |      |    |      |      |     |      |    |      |      |     |      |
@@ -11,9 +12,6 @@ A list of video instance segmentation papers, codes, and datasets.
 | CrossVIS         | ResNet-50 | 36.3             | 56.8 | 38.9 | 35.6 | 40.7 | 34.2 | 54.4 | 37.9 | 30.4 | 38.2 | 14.9 | 32.7 | 12.1 | 10.3 | 19.8 |
 | VISOLO           | ResNet-50 | 38.6             | 56.3 | 43.7 | 35.7 | 42.5 | 36.9 | 54.7 | 40.2 | 30.6 | 40.9 | 15.3 | 31.0 | 13.8 | 11.1 | 21.7 |
 | ...              | ...       | ...              | ...  | ...  | ...  | ...  | ...  | ...  | ...  | ...  | ...  | ...  | ...  | ...  | ...  | ...  |
-
-
-
 
 
 ## 2023
@@ -85,3 +83,4 @@ A list of video instance segmentation papers, codes, and datasets.
 | Classifying, Segmenting, and Tracking Object Instances in Video with Mask Propagation | CVPR | Video | [PDF](https://arxiv.org/pdf/1912.04573.pdf) | CODE |
 | CompFeat: Comprehensive Feature Aggregation for Video Instance Segmentation | AAAI | Video | [PDF](https://arxiv.org/pdf/2012.03400v1.pdf) | [CODE](https://github.com/SHI-Labs/CompFeat-for-Video-Instance-Segmentation) |
 | Sipmask: Spatial Information Preservation for Fast Image and Video Instance Segmentation | ECCV | Video | [PDF](https://arxiv.org/pdf/2007.14772.pdf) | [CODE](https://github.com/JialeCao001/SipMask) |
+
