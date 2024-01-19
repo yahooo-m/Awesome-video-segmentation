@@ -1,6 +1,10 @@
 # Awesome-Video-Instance-Segmentation[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A list of video instance segmentation papers, codes and datasets.
 
+## 2023
+| Title |  Venue  | Supervision | PDF | CODE |
+| :-----|:-------:|:---:|:---:|:----:|
+| GenViS: A generalized framework for video instance segmentation | CVPR 2023 | Video| [PDF](https://arxiv.org/abs/2211.08834) | [CODE](https://github.com/miranheo/GenVIS)|
 
 ## 2022
 
