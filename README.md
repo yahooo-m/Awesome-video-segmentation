@@ -4,5 +4,5 @@
 
 😺[VIS](https://github.com/yahooo-m/Awesome-video-segmentation/blob/main/VIS.md)
 
-🎃[RVOS](https://github.com/yahooo-m/Awesome-video-segmentation/blob/main/RVOS)
+🎃[RVOS](https://github.com/yahooo-m/Awesome-video-segmentation/blob/main/RVOS.md)
 
