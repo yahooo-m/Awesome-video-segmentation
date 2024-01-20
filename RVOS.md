@@ -3,7 +3,7 @@
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
-| EPCFormer | [EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation](https://arxiv.org/pdf/2308.04162v1.pdf) | [code](https://github.com/lab206/epcformer) |
+| EPCFormer | [EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation](https://arxiv.org/pdf/2308.04162v1.pdf) | Arxiv |  [code](https://github.com/lab206/epcformer) |
 | SOC | [SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation](https://arxiv.org/pdf/2305.17011v1.pdf) | NIPS 2023 | [code](https://github.com/RobertLuo1/NeurIPS2023_SOC) |
 | MUTR | [Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation](https://arxiv.org/pdf/2305.16318v2.pdf) | AAAI 2024 | [code](https://github.com/opengvlab/mutr) |
 | TempCD | [Temporal Collection and Distribution for Referring Video Object Segmentation](https://arxiv.org/abs/2309.03473) | ICCV 2023 | [[project]](https://toneyaya.github.io/tempcd/) [[code]](https://github.com/Toneyaya/TempCD) |
