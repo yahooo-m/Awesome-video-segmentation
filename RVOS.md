@@ -1,5 +1,7 @@
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| SOC | [SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation](https://arxiv.org/pdf/2305.17011v1.pdf) | NIPS 2023 | [code](https://github.com/RobertLuo1/NeurIPS2023_SOC) |
+| MUTR | [Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation](https://arxiv.org/pdf/2305.16318v2.pdf) | AAAI 2024 | [code](https://github.com/opengvlab/mutr) |
 | TempCD | [Temporal Collection and Distribution for Referring Video Object Segmentation](https://arxiv.org/abs/2309.03473) | ICCV 2023 | [[project]](https://toneyaya.github.io/tempcd/) [[code]](https://github.com/Toneyaya/TempCD) |
 | HTML | [HTML: Hybrid Temporal-scale Multimodal Learning Framework for Referring Video Object Segmentation](https://mingfei.info/) | ICCV 2023 | [[project]](https://mingfei.info/HTML) |
 | LMPM | [MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions](https://arxiv.org/abs/2308.08544) | ICCV 2023 | [[code]](https://github.com/henghuiding/MeViS) [[project]](https://henghuiding.github.io/MeViS/) |
