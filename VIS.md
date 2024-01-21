@@ -5,19 +5,19 @@ A list of video instance segmentation papers, codes, and datasets.
 
 
 ## 2023
-| Title |  Venue  | Supervision | PDF | CODE |
-| :-----|:-------:|:---:|:---:|:----:|
-| GenVIS: A generalized framework for video instance segmentation | CVPR 2023 | 🔥Video| [PDF](https://arxiv.org/abs/2211.08834) | [CODE](https://github.com/miranheo/GenVIS)|
-| GRAtt-VIS: Gated residual attention for auto rectifying video instance segmentation | Arxiv | Video | [PDF](https://arxiv.org/abs/2305.17096) | [CODE](https://github.com/Tanveer81/GRAttVIS) |
-| RefineVIS: Refinevis: Video instance segmentation with temporal attention refinement | Arxiv | Video| [PDF](https://arxiv.org/abs/2306.04774) | CODE|
-| CTVIS: Consistent training for online video instance segmentation | ICCV 2023  | Video | [PDF](https://arxiv.org/abs/2307.12616) | [CODE](https://github.com/KainingYing/CTVIS)|
-| TCOVIS: Temporally consistent online video instance segmentation | ICCV 2023 | Video | [PDF](https://arxiv.org/abs/2309.11857) | [CODE](https://github.com/jun-long-li/TCOVIS/blob/main/README.md)|
-| DVIS: Decoupled video instance segmentation framework | ICCV 2023 | Video | [PDF](https://arxiv.org/abs/2306.03413) | [CODE](https://github.com/zhang-tao-whu/DVIS) |
-| NOVIS: A case for end-to-end near-online video instance segmentation | ICML 2023 | Video | [PDF](https://arxiv.org/pdf/2308.15266v2.pdf) | CODE |
-| DVIS++： Improved Decoupled Framework for Universal Video Segmentation | Arxiv | 🔥Unified & OV | [PDF](https://arxiv.org/pdf/2312.13305v1.pdf) | [CODE](https://github.com/zhang-tao-whu/DVIS_Plus) |
-| Tube-Link: A Flexible Cross Tube Framework for Universal Video Segmentation| ICCV 2023| 🔥Unified | [PDF](https://arxiv.org/pdf/2303.12782v3.pdf) | [CODE](https://github.com/lxtgh/tube-link) |
-| UNINEXT: Universal Instance Perception as Object Discovery and Retrieval | CVPR 2023 | 🔥Unified | [PDF](https://arxiv.org/pdf/2303.06674v2.pdf) | [CODE](https://github.com/MasterBin-IIAU/UNINEXT) |
-| GLEE: General Object Foundation Model for Images and Videos at Scale | Arxiv | 🔥Unified | [PDF](https://arxiv.org/pdf/2312.09158v1.pdf) | [CODE](https://github.com/FoundationVision/GLEE) |
+| Title |  Venue  | Supervision | Type |  PDF | CODE |
+| :-----|:-------:|:---:|:---:|:---:|:----:|
+| GenVIS: A generalized framework for video instance segmentation | CVPR 2023 | 🔥Video| Online/Semi-Online | [PDF](https://arxiv.org/abs/2211.08834) | [CODE](https://github.com/miranheo/GenVIS)|
+| GRAtt-VIS: Gated residual attention for auto rectifying video instance segmentation | Arxiv | Video | Online | [PDF](https://arxiv.org/abs/2305.17096) | [CODE](https://github.com/Tanveer81/GRAttVIS) |
+| RefineVIS: Refinevis: Video instance segmentation with temporal attention refinement | Arxiv | Video| Online | [PDF](https://arxiv.org/abs/2306.04774) | CODE|
+| CTVIS: Consistent training for online video instance segmentation | ICCV 2023  | Video | Online | [PDF](https://arxiv.org/abs/2307.12616) | [CODE](https://github.com/KainingYing/CTVIS)|
+| TCOVIS: Temporally consistent online video instance segmentation | ICCV 2023 | Video | Online | [PDF](https://arxiv.org/abs/2309.11857) | [CODE](https://github.com/jun-long-li/TCOVIS/blob/main/README.md)|
+| DVIS: Decoupled video instance segmentation framework | ICCV 2023 | Video | Online/Offline | [PDF](https://arxiv.org/abs/2306.03413) | [CODE](https://github.com/zhang-tao-whu/DVIS) |
+| NOVIS: A case for end-to-end near-online video instance segmentation | ICML 2023 | Video | Semi-Online | [PDF](https://arxiv.org/pdf/2308.15266v2.pdf) | CODE |
+| DVIS++： Improved Decoupled Framework for Universal Video Segmentation | Arxiv | 🔥Unified & OV |  Online/Offline |  [PDF](https://arxiv.org/pdf/2312.13305v1.pdf) | [CODE](https://github.com/zhang-tao-whu/DVIS_Plus) |
+| Tube-Link: A Flexible Cross Tube Framework for Universal Video Segmentation| ICCV 2023| 🔥Unified | Semi-Online | [PDF](https://arxiv.org/pdf/2303.12782v3.pdf) | [CODE](https://github.com/lxtgh/tube-link) |
+| UNINEXT: Universal Instance Perception as Object Discovery and Retrieval | CVPR 2023 | 🔥Unified | Online | [PDF](https://arxiv.org/pdf/2303.06674v2.pdf) | [CODE](https://github.com/MasterBin-IIAU/UNINEXT) |
+| GLEE: General Object Foundation Model for Images and Videos at Scale | Arxiv | 🔥Unified | Online | [PDF](https://arxiv.org/pdf/2312.09158v1.pdf) | [CODE](https://github.com/FoundationVision/GLEE) |
 
 
 ## 2022
