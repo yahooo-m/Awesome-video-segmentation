@@ -3,6 +3,11 @@ A list of video instance segmentation papers, codes, and datasets.
 
 ## LeadBoard
 
+## OV
+| Title |  Venue  |  Type |  PDF | CODE |
+| :-----|:-------:|:---:|:---:|:----:|
+| BriVIS     | Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation | Arxiv |   Offline   |                                                          [PDF](https://arxiv.org/pdf/2401.09732.pdf)                                                          |  [Code](https://github.com/sennnnn/OpenVIS)  |
+| OMG-Seg    | OMG-Seg: Is One Model Good Enough For All Segmentation?                           | Arxiv | Semi-Online |                                                          [PDF](https://arxiv.org/pdf/2401.10229.pdf)                                                          |   [Code](https://github.com/lxtGH/OMG-Seg)   |
 
 ## 2023
 | Title |  Venue  | Supervision | Type |  PDF | CODE |
