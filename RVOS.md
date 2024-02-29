@@ -31,6 +31,7 @@
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| UniVS    | UniVS: Unified and Universal Video Segmentation with Prompts as Queries  | CVPR2024 | [PDF](https://arxiv.org/pdf/2402.18115.pdf)| [Code](https://github.com/MinghanLi/UniVS) |
 | EPCFormer | [EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation](https://arxiv.org/pdf/2308.04162v1.pdf) | Arxiv |  [code](https://github.com/lab206/epcformer) |
 | SOC | [SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation](https://arxiv.org/pdf/2305.17011v1.pdf) | NIPS 2023 | [code](https://github.com/RobertLuo1/NeurIPS2023_SOC) |
 | MUTR | [Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation](https://arxiv.org/pdf/2305.16318v2.pdf) | AAAI 2024 | [code](https://github.com/opengvlab/mutr) |
